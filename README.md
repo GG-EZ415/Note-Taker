@@ -10,5 +10,7 @@ I created an application called "Note Taker" that can be used to write and save 
 ![Capture2](https://user-images.githubusercontent.com/82787571/197043320-55dbce0a-196a-4617-a0e4-63c3dc99d767.PNG)
 
 ___________________________________
+
+### Screenshots of Application
 ![Capture2](https://user-images.githubusercontent.com/82787571/197046408-cfeaae37-01d7-4aa5-a867-985b74bb6c02.PNG)
 ![Capture](https://user-images.githubusercontent.com/82787571/197046434-d64093a8-db43-443e-b218-74cf60761dcb.PNG)
